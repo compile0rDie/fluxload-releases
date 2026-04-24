@@ -5,12 +5,12 @@
         <item>
             <title>Version 1.0.2</title>
             <pubDate>Thu, 24 Apr 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <enclosure
                 url="https://github.com/compile0rDie/fluxload-releases/releases/download/v1.0.2/Fluxload.dmg"
-                sparkle:edSignature="JCaVluekHqOQtrfdggPBeZXtXxbH7iwQaTMAv1UTeZdnxJVhrz2QJTs9x/fc6q9taZAvdOl1/LjI/UZ1BhSuDQ=="
-                length="4331117"
+                sparkle:edSignature="DGz7bInM4AiSUd8U5a4yeIFzuigl7pKtWDCbb9Qu8ogOcegsycphd/sEJkJTA8Bm6kHmA6Fvsrea2Br8YfgPDQ=="
+                length="4331955"
                 type="application/octet-stream"/>
         </item>
         <item>

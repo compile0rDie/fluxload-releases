@@ -3,6 +3,17 @@
     <channel>
         <title>Fluxload</title>
         <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Thu, 24 Apr 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <enclosure
+                url="https://github.com/compile0rDie/fluxload-releases/releases/download/v1.0.1/Fluxload.dmg"
+                sparkle:edSignature="E72LkT3YvRpl4391bTV1ZFWYJ33LFHvUv7c/88d6z1yQDJs9IrtlCYml2kBXp1XUSClpcbQ+A5IFeDbm4oCtCg=="
+                length="4176148"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.0.0</title>
             <pubDate>Thu, 24 Apr 2026 12:00:00 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
